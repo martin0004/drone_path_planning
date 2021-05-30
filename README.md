@@ -1,4 +1,4 @@
-# AUTONOMOUS DRONE 3D PATH PLANNING
+# Autonomous Drone 3D Path Planning
 
 # Overview
 

@@ -206,7 +206,9 @@ Locations in the world are expressed with several coordinate frames. Understandi
 |neu|Local NEU frame (North-East-Up)|(north [m], east[m], POSITIVE altitude [m])|Drone home location|Non-standard frame. Does not respect the right-hand rule. Used by obstacle file and udacidrone cmd_position method.
 
 <br>
+
 `frames.py` provides functions for converting a location from a frame to another.
+
 <br>
 
 <img src="images/frames.jpg" alt="Coordinate frames" width="400"/>

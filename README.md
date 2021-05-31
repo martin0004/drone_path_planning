@@ -35,7 +35,7 @@ https://youtu.be/V4rkXZcyLaU
 
     mkdir -p /drone/projects/planning
     cd /drone/projects/planning
-    git clone ...
+    git clone https://github.com/martin0004/drone_path_planning.git
 
 5 - Launch the simulator (files might be different depending on your system).
 

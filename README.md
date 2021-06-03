@@ -85,7 +85,7 @@ Planning is performed by the `plan` method of the `AutonomousDrone` class. This 
 - Define a start state.
 - Define a goal state.
 - Define actions for each state.
-- Define costs for each state.
+- Define costs for each action.
 
 **Search for a plan (i.e. drone trajectory)**
 
